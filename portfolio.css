@@ -5,7 +5,7 @@
 
 .bgimage {
     height:100vh;
-    background: url('https://www.pexels.com/photo/man-in-black-shirt-sits-behind-desk-with-computers-2102416/');
+    background: url("https://www.pexels.com/photo/man-in-black-shirt-sits-behind-desk-with-computers-2102416/");
     background-size:cover;
     position:relative;
 }
