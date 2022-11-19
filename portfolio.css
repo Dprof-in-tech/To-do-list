@@ -5,11 +5,7 @@
 
 .bgimage {
     height:100vh;
-<<<<<<< HEAD
-    background: url('https://images.pexels.com/photos/2102416/pexels-photo-2102416.jpeg?cs=srgb&dl=pexels-djordje-petrovic-2102416.jpg&fm=jpg&_gl=1*1hqh04t*_ga*MTgyNTEwMDA0Ni4xNjY3NTQ3NDcz*_ga_8JE65Q40S6*MTY2NzU5NDMzNS4yLjEuMTY2NzU5NTU0NS4wLjAuMA..');
-=======
-    background: url('https://www.pexels.com/photo/man-in-black-shirt-sits-behind-desk-with-computers-2102416/');
->>>>>>> 038ba3a41a20053ca52d0c8109c340614017e2f0
+    background: url('design2.jpg');
     background-size:cover;
     position:relative;
 }
