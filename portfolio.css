@@ -2,6 +2,9 @@
 .navbarScroll.navbarDark {
     background-color: black;
 }
+.nav-link{
+    list-style-type:none;
+}
 
 .bgimage {
     height:100vh;
