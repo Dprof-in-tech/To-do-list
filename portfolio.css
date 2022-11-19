@@ -2,7 +2,7 @@
 .navbarScroll.navbarDark {
     background-color: black;
 }
-.navbar{
+.navbar .nav-item{
     list-style-type:none;
 }
 
